@@ -1,7 +1,8 @@
 # Ghi chú phân tích · Day 04
 
-Họ và tên:
-MSSV:
+Họ và tên: Nguyen Huy Tan
+MSSV:2A202603925
+
 
 ## 1. Case được chọn
 
